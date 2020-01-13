@@ -18,7 +18,7 @@
       "id": 2,
       "title": "Polos untuk Lebaran",
       "subjudul":"Hijup",
-      "gambar":"https://cdn.popbela.com/content-images/post/20180531/30855435-956458461177816-4238136426178281472-n-2-7f8c1548c637f2b324806a0c4a669530_750x500.jpg",
+      "gambar":"http://d3t543lkaz1xy.cloudfront.net/photo/59eda51b617583711cd5987e_m",
       "kategori":"campur",
       "langkah":[
         "1. Bentangkan hijab polos sesuai keinginan sejajar bahu.",
@@ -73,7 +73,7 @@
       "id": 6,
       "title": "Simple Turban",
       "subjudul":"Rima",
-      "gambar":"https://cdn.mall.sayidaty.net/image/cache/Product/172438/2019_01_24_01_32/1548336735251618-540x600.jpg",
+      "gambar":"http://d3t543lkaz1xy.cloudfront.net/photo/58b3ce02f28ae5b83a588ed8_m",
       "kategori":"campur",
       "langkah":[
         "1. Kenakan scarf di atas kepala dengan melipat bagian depan diatas dahi supaya lebih tebal dan memberikan kesan yang lebih rapi",
@@ -83,6 +83,62 @@
         "5. Lalu ambil sisi scarf yang lebih panjang dan pindahkan ke pundak sebelah kiri",
         "6. Setelah itu, gunakan sisi yang lebih panjang ini untuk membungkus bagian kepala depan"
         ]
-    }   
+    },
+    {
+      "id": 7,
+      "title": "Pashmina Menutup Dada",
+      "subjudul":"Lara Hijab",
+      "gambar":"https://larahijab.com/wp-content/uploads/2019/01/Cara-memakai-hijab-pashmina-simple-4.jpg",
+      "kategori":"pashmina",
+      "langkah":[
+        "1. Ambil kedua sisi dengan panjang yang sama dan jangan lupa pinnya",
+        "2. Kemudian tarik sisi kanan dan pasang jarumnya ke belakang kepala",
+        "3. Begitu juga sisi kirinya jangan lupa pasang jarum lagi"
+        ]
+    },
+    {
+      "id": 8,
+      "title": "Simple Classy",
+      "subjudul":"Restu Anggraini",
+      "gambar":"http://d3t543lkaz1xy.cloudfront.net/photo/595b2002a2ede2612bd2ed6d_m",
+      "kategori":"square",
+      "langkah":[
+        "1. Bentuk hijab square menjadi segitiga, pakai hijab dan atur ujung-ujungnya hingga sama panjang",
+        "2. Sematkan jarum pentul agar hijab terpasang rapi",
+        "3. Bawa hijab sebelah kiri memutar melewati bagian depan lalu ke belakang",
+        "4. Terus bawa ujung hijab tersebut hingga kembali lagi ke sebelah kiri",
+        "5. Ikat simpul di bagian samping leher dan buat aksen pita, Done!"
+        ]
+    },
+    {
+      "id": 9,
+      "title": "Pashmina Diamond",
+      "subjudul":"tutorialhijab_",
+      "gambar":"https://webicdn.com/sdirmember/10/9929/produk/5rsft.png",
+      "kategori":"pashmina",
+      "langkah":[
+        "1. Letakkan pashmina di kepala satu bagian panjang satu bagian pendek",
+        "2. ambil bagian yg panjang dan sematkan di inner hijab bagian samping di atas telinga",
+        "3. Beri jarum juga pada bagian luarnya seperti pada gambar",
+        "4. Tarik bagian pendek dan masukkan ke arah dalam bagian yg panjang dan tarik ke bagian atas",
+        "5. Bawa ke atas dan akhirnya sampai ke samping dan diberi jarum, Bagian pendek yg tersisa tadi di bentuk dan dilipat ke arah luar dan di beri pentul dibahu"
+        ]
+    },
+    {
+      "id": 10,
+      "title": "Segi Empat Untuk Pesta",
+      "subjudul":"No Name",
+      "gambar":"https://cdns.klimg.com/merdeka.com/i/w/news/2018/05/17/977492/content_images/670x335/20180517162130-3-cara-memakai-jilbab-segi-empat-untuk-pesta-002-tantri-setyorini.jpg",
+      "kategori":"square",
+      "langkah":[
+        "1. Bentuk hijab segi empat menjadi segitiga",
+        "2. Kerudungkan jilbab dengan bagian kiri dan kanan sama panjang",
+        "3. Sematkan jarum di bagian pipi bawah sebelah kiri",
+        "4. Sematkan juga bagian kanan dengan jarum",
+        "5. Pastikan kedua sisi benar benar sama panjang",
+        "6. Tarik kedua sisi jilbab ke bagian kanan belakang",
+        "7. Ambil ujung kain yang paling panjang. Tarik ke puncak kepala hingga membentuk layer cantik. Sematkan dengan jarum pentul"
+        ]
+    }
   ]
 }
